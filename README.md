@@ -144,4 +144,4 @@ LGSecondView上面也有一个UIButton我们叫它buttonSecond
 
 还有很多方法也欢迎你把思路写下来发给我。我的微信号iOS开发：iOSDevTip
 
-代码下载地址:[HitTestMaster](https://github.com/worldligang/HitTestMaster.git)
+代码下载地址:<a href="https://github.com/worldligang/HitTestMaster.git"target="_blank"title="HitTestMaster">HitTestMaster</a>
